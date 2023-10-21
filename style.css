@@ -1,0 +1,110 @@
+body {
+	background-color: rgb(230, 230, 230);
+	color: black;
+	font-family: 'Playfair Display', serif;
+	font-weight: lighter;
+}
+
+h1 {
+	color: #005d80;
+	font-size: 50px;
+	font-family: 'Bebas Neue', sans-serif;
+} 
+
+
+h2 {
+	color: #005d80;
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+} 
+
+a {
+	text-decoration: none;
+	color: #005d80;
+} 
+
+a:hover {
+	color: blue;
+}
+
+.img-circle {
+	border-radius: 50%
+}
+
+
+.btn-blue {
+	background-color: #005d80;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 5px;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+
+.list-inline i {
+	font-size: 50px;
+}
+
+@media (max-width: 800px) {
+  p {
+    width: 700px;
+  }
+}
+
+
+@media (max-width: 700px) {
+  p {
+    width: 600px;
+  }
+}
+
+@media (max-width: 600px) {
+  p {
+    width: 500px;
+  }
+}
+
+
+@media (max-width: 500px) {
+  p {
+    width: 400px;
+  }
+}
+
+
+@media (max-width: 400px) {
+  p {
+    width: 300px;
+  }
+}
+
+
+@media (max-width: 200px) {
+  p {
+    width: 100px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
